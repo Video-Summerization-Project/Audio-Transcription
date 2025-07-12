@@ -3,5 +3,4 @@ __pycahce__/
 RawVideos/
 output/
 transcripts/
-ffmpeg.exe
 .env
