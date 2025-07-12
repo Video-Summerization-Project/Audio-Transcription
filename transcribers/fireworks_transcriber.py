@@ -52,7 +52,6 @@ def transcribe_with_fireworks(
 
 # Example usage
 if __name__ == "__main__":
-    FIREWORKS_API_KEY = "fw_3ZQ25PRuU3K4YWvfzEdZx7yQ"
     audio_file = "audio.mp3"
 
     result = transcribe_with_fireworks(audio_file, api_key=FIREWORKS_API_KEY)
