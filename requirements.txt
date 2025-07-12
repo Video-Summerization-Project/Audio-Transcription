@@ -2,3 +2,8 @@ ffmpeg
 requests
 groq
 dotenv
+pydub
+json
+pathlib
+subprocess
+tempfile
