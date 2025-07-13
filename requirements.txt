@@ -4,4 +4,3 @@ groq
 fireworks-ai
 dotenv
 pydub
-pathlibs
