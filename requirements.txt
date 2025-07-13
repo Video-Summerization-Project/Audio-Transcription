@@ -1,10 +1,7 @@
 ffmpeg
 requests
 groq
+fireworks-ai
 dotenv
 pydub
-json
-pathlib
-subprocess
-tempfile
-fireworks-ai
+pathlibs
